@@ -1,7 +1,8 @@
 # RecyclerView2
 
 
-![Re2.jpeg](https://github.com/irvinafiradila/RecyclerView2/blob/master/Re2.jpeg)
+![Rv21.JPG](https://github.com/irvinafiradila/RecyclerView2/blob/master/Rv21.JPG)
+![RV2.JPG](https://github.com/irvinafiradila/RecyclerView2/blob/master/RV2.JPG)
 
 
 
